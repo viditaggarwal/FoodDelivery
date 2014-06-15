@@ -1,0 +1,204 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.container-vendor {
+max-width: 1170px;
+}
+
+.vendor-bg { 
+	margin:0; 
+	padding:0; 
+	position:absolute; 
+	z-index:-1;
+}
+
+.vendor-top { margin:0; padding:20px 0; text-align:center;}
+
+.vendor-top h1 { 
+	text-align:center; 
+	margin:0; 
+	padding:0; 
+	color:#3d3d3d; 
+	font-size:48px;
+}
+
+.vendor-top p { 
+	text-align:center; 
+	margin:10px 0; 
+	padding:0; 
+	color:#3d3d3d; 
+	font-size:18px;
+}
+
+
+
+
+.vendor-top-mobile { margin:0; padding:20px 0; text-align:center;}
+
+.vendor-top-mobile h1 { 
+	text-align:center; 
+	margin:0; 
+	padding:0; 
+	color:#000; 
+	font-size:24px;
+}
+
+.vendor-top-mobile p { 
+	text-align:center; 
+	margin:10px 0; 
+	padding:0; 
+	color:#000; 
+	font-size:18px;
+}
+
+
+
+
+.vendor-title { 
+	margin:388px 0 50px 0; 
+	padding:0;
+}
+
+.vendor-title h1 { 
+	margin:0; 
+	padding:0; 
+	color:#5a5959; 
+	font-size:24px;
+	font-weight:bold;
+}
+
+.vendor-title p { 
+	margin:10px 0; 
+	padding:0; 
+	color:#5a5959; 
+	font-size:18px;
+}
+
+.vendor-title-mobi { 
+	margin:0 0 50px 0; 
+	padding:0;
+}
+
+.vendor-title-mobi h1 { 
+	margin:0; 
+	padding:0; 
+	color:#5a5959; 
+	font-size:24px;
+	font-weight:bold;
+}
+
+.vendor-title-mobi p { 
+	margin:10px 0; 
+	padding:0; 
+	color:#5a5959; 
+	font-size:18px;
+}
+
+.home-office-icon { margin:20px 50px 0 0; padding:0;}
+
+.food-lover-icon { float:right;}
+
+.home-office-delivery { 
+	margin:15px 0; 
+	padding:0;
+	overflow:hidden;
+}
+
+.home-office-margin { margin:50px 0}
+
+.home-office-delivery h1 {
+	margin:0; 
+	padding:0; 
+	color:#5a5959; 
+	font-size:24px;
+	font-weight:bold;
+}
+
+.home-office-delivery h2 {
+	margin:0 0 10px 0; 
+	padding:0; 
+	color:#5a5959; 
+	font-size:20px;
+	font-weight:bold;
+}
+.home-office-delivery p {
+	margin:10px 0; 
+	padding:0; 
+	color:#5a5959; 
+	font-size:16px;
+	line-height:35px;
+}
+
+.home-office-delivery .with-delfoo { 
+	margin:0 10px 10px 0; 
+	padding:10px 25px; 
+	text-align:center; 
+	background:#e05b4a; 
+	color:#fff; 
+	font-size:18px; 
+	float:left; 
+	border-radius:3px;
+}
+.with-delfoo:hover { 
+	background:#c34838; 
+	text-decoration:none;
+}
+
+.home-office-delivery .without-delfoo { 
+	margin:0; 
+	padding:10px 15px; 
+	text-align:center; 
+	background:#f8dbd7; 
+	color:#efcbc6; 
+	font-size:18px; 
+	float:left; 
+	border-radius:3px; 
+	cursor:auto;
+}
+.without-delfoo:hover { 
+	text-decoration:none;
+}
+
+.vendor-bottom-bg { margin:0; padding:0; background:url(../img/vendor-bottom-bg.png) no-repeat; height:217px;}
+
+.vendor-bottom { margin:0; padding:23px 0; overflow:hidden;}
+
+.vendor-bottom h1 {
+	color: #384047;
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-transform: none;
+
+}
+
+
+
+.vendor-bottom p {
+	
+    color: #221F1F;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.vendor-bottom a {
+	background: none repeat scroll 0 0 #E74C3C;
+    border-radius: 3px;
+    color: #FFFFFF;
+	font-size:18px;
+    font-weight: bold;
+    margin: 10px 0 0;
+    padding: 20px 30px;
+    text-align: center;
+    text-decoration: none;
+	text-transform:uppercase;
+}
+
+
+
